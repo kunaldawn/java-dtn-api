@@ -1,3 +1,5 @@
+Migrating to project ARMANET
+
 JavaDTN v0.2 devel
 ==============================================
 A light weight DTN protocol written in java.
