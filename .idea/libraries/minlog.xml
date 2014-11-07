@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minlog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dev_modules/frag_module/libs/minlog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
